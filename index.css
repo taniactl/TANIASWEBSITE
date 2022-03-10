@@ -35,7 +35,9 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 
-
+h1{
+  font-size:50px
+}
 
 .hero-image {
   background-image:linear-gradient(rgba(17, 17, 17, 0.7),rgba(58, 59, 59, 0.7)), url("https://www.ballroomdanceplanet.com/wp-content/uploads/2021/10/The-ballroom-dance-planet-hero.jpg");
