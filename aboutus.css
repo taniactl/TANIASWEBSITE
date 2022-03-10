@@ -13,7 +13,7 @@ body {
 }
 
 .hero-image {
-  background-image: url("https://azpbs.org/wp-content/uploads/2019/07/dancesport-grandslam.jpg");
+  background-image:linear-gradient(rgba(17, 17, 17, 0.7),rgba(58, 59, 59, 0.7)), url("https://azpbs.org/wp-content/uploads/2019/07/dancesport-grandslam.jpg");
   background-color: #cccccc;
   height: 500px;
   background-position: center;
@@ -38,6 +38,6 @@ div.about{
   text-align: center;
   background: rgb(0, 0, 0);
   color: white;
-  margin-top: 110px;
+
  
 }

@@ -5,15 +5,11 @@ body {
 
 .hero-text {
   text-align: center;
-
-  /* top: 50%; */
-  /* left: 50%; */
-  /* transform: translate(-50%, -50%); */
   color: white;
 }
 
 .hero-image {
-  background-image: url("https://hips.hearstapps.com/bpc.h-cdn.co/assets/17/12/1490305168-dancing-with-stars-ballroom-class.jpg");
+  background-image:linear-gradient(rgba(17, 17, 17, 0.7),rgba(58, 59, 59, 0.7)), url("https://hips.hearstapps.com/bpc.h-cdn.co/assets/17/12/1490305168-dancing-with-stars-ballroom-class.jpg");
   background-color: #cccccc;
   height: 500px;
   background-position: center;
@@ -23,13 +19,8 @@ body {
 }
 
 
-/* * {
-  box-sizing: border-box;
-} */
-
-
 .column {
-  /* float: left; */
+
   padding: 10px;
 
   font-weight: lighter;
@@ -44,8 +35,7 @@ body {
 
 #bottom {
   text-align: center;
-  /* bottom: 0; */
-  /* left: 0; */
+
 }
 
   .footer {

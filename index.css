@@ -38,7 +38,7 @@
 
 
 .hero-image {
-  background-image: url("https://www.ballroomdanceplanet.com/wp-content/uploads/2021/10/The-ballroom-dance-planet-hero.jpg");
+  background-image:linear-gradient(rgba(17, 17, 17, 0.7),rgba(58, 59, 59, 0.7)), url("https://www.ballroomdanceplanet.com/wp-content/uploads/2021/10/The-ballroom-dance-planet-hero.jpg");
   background-color: #cccccc;
   height: 500px;
   background-position: center;
@@ -140,21 +140,4 @@
   bottom: 0;
   width: 100%;
 
-}
-
-.button1 {
-  vertical-align:middle
-  
-
-}
-
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-
-li {
-  display: inline-block;
-  margin-right: 20px;
 }
