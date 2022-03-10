@@ -1,0 +1,8 @@
+    <div class="hero-image">
+        <div class="hero-text">
+          <h1 style="font-size:50px">WELCOME TO THE BALLROOM</h1>
+          <p><button class="button1"><span><a href="aboutus.html">ABOUT US</a></span></button></p>
+          <p><button class="button1"><span><a href="lessons.html">LESSONS</a></span></button></p>
+          <p><button class="button1"><span><a href="1about.html">WEDDING PROGRAM</a></span></button></p>
+        </div>
+      </div>

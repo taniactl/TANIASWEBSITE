@@ -47,7 +47,7 @@
   position: relative;
 }
 
-.button {
+.button1 {
   display: inline-block;
   border-radius: 4px;
   background-color: #000000;
@@ -62,14 +62,14 @@
   margin: 5px;
 }
 
-.button span {
+.button1 span {
   cursor: pointer;
   display: inline-block;
   position: relative;
   transition: 0.5s;
 }
 
-.button span:after {
+.button1 span:after {
   content: '\00bb';
   position: absolute;
   opacity: 0;
@@ -78,11 +78,11 @@
   transition: 0.5s;
 }
 
-.button:hover span {
+.button1:hover span {
   padding-right: 25px;
 }
 
-.button:hover span:after {
+.button1:hover span:after {
   opacity: 1;
   right: 0;
 }
@@ -140,4 +140,21 @@
   bottom: 0;
   width: 100%;
 
+}
+
+.button1 {
+  vertical-align:middle
+  
+
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline-block;
+  margin-right: 20px;
 }
