@@ -6,45 +6,45 @@ body {
 .hero-text {
   text-align: center;
   color: white;
+  padding: 160px;
 }
 
 .hero-image {
-  background-image:linear-gradient(rgba(17, 17, 17, 0.7),rgba(58, 59, 59, 0.7)), url("https://hips.hearstapps.com/bpc.h-cdn.co/assets/17/12/1490305168-dancing-with-stars-ballroom-class.jpg");
+  background-image: linear-gradient(
+      rgba(17, 17, 17, 0.7),
+      rgba(58, 59, 59, 0.7)
+    ),
+    url("https://hips.hearstapps.com/bpc.h-cdn.co/assets/17/12/1490305168-dancing-with-stars-ballroom-class.jpg");
   background-color: #cccccc;
   height: 500px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-
 }
 
+h1 {
+  font-size: 50px;
+}
 
 .column {
-
   padding: 10px;
 
   font-weight: lighter;
-  text-align: center;
-
 }
 
 .row {
- display: flex;
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
 }
-
 
 #bottom {
   text-align: center;
-
 }
 
-  .footer {
-    padding: 20px;
-    text-align: center;
-    background: rgb(0, 0, 0);
-    color: white;
-
-   
-    width: 100%;
-  
-  }
+.footer {
+  padding: 20px;
+  text-align: center;
+  background: rgb(0, 0, 0);
+  color: white;
+}
