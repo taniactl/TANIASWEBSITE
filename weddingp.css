@@ -14,7 +14,7 @@ body {
 }
 
 .hero-image {
-  background-image:linear-gradient(rgba(17, 17, 17, 0.7),rgba(58, 59, 59, 0.7)), url("https://images.unsplash.com/flagged/photo-1620830102229-9db5c00d4afc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8d2VkZGluZyUyMGRhbmNlfGVufDB8fDB8fA%3D%3D&w=1000&q=80");
+  background-image:linear-gradient(rgba(17, 17, 17, 0.7),rgba(58, 59, 59, 0.7)), url("photos/married.jpeg");
   background-color: #cccccc;
   height: 500px;
   background-position: center;
