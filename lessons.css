@@ -6,6 +6,7 @@ body {
 .hero-text {
   text-align: center;
   color: white;
+  padding: 160px;
 }
 
 .hero-image {
@@ -18,18 +19,23 @@ body {
 
 }
 
+h1{
+  font-size:50px
+}
 
 .column {
 
   padding: 10px;
 
   font-weight: lighter;
-  text-align: center;
+
 
 }
 
 .row {
  display: flex;
+ justify-content: space-around;
+ padding: 20px;
 }
 
 
@@ -43,8 +49,5 @@ body {
     text-align: center;
     background: rgb(0, 0, 0);
     color: white;
-
-   
-    width: 100%;
   
   }
